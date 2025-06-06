@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="lab2.dev.AppTest" time="0.016" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\program2\dev\target\test-classes;D:\program2\dev\target\classes;C:\Users\pruth\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Users\pruth\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\pruth\AppData\Local\Temp\surefire7321363185007825385\surefirebooter-20250605212843351_3.jar C:\Users\pruth\AppData\Local\Temp\surefire7321363185007825385 2025-06-05T21-28-43_149-jvmRun1 surefire-20250605212843351_1tmp surefire_0-20250605212843351_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\program2\dev\target\test-classes;D:\program2\dev\target\classes;C:\Users\pruth\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\pruth"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-10-17"/>
+    <property name="java.home" value="C:\Users\pruth\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="style.color" value="always"/>
+    <property name="basedir" value="D:\program2\dev"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\pruth\AppData\Local\Temp\surefire7321363185007825385\surefirebooter-20250605212843351_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.9+9"/>
+    <property name="user.name" value="pruth"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.9+9"/>
+    <property name="localRepository" value="C:\Users\pruth\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\pruth\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.9"/>
+    <property name="user.dir" value="D:\program2\dev"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\pruth\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Users/pruth/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858/jre/bin/server;C:/Users/pruth/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858/jre/bin;C:\app\pruth\product\21c\dbhomeXE\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Users\pruth\Downloads\java-1.8.0-openjdk-1.8.0.392-1.b08.redhat.windows.x86_64.zip\java-1.8.0-openjdk-1.8.0.392-1.b08.redhat.windows.x86_64;C:\Users\pruth\Downloads\jdk-21.0.6_windows-x64_bin.zip\jdk-21.0.6\bin\bin;C:\Program Files\Java\jdk-23\bin;C:\Users\pruth\Downloads\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\pruth\Downloads;D:\flutter\src\flutter\bin;C:\Users\pruth\Downloads\gradle-8.12.1-bin\gradle-8.12.1\bin;C:\Users\pruth\Downloads\python-3.11.9-amd64.exe;C:\Users\pruth\Downloads\jdk-17.0.12_windows-x64_bin.exe;C:\Program Files\Git\cmd;C:\Users\pruth\Downloads\Release-24.08.0-0.zip\poppler-24.08.0\Library\bin;D:\poppler-24.08.0\Library\bin;C:\Program Files\Tesseract-OCR;C:\Program Files\nodejs\;C:\Users\pruth\Downloads\jdk-21.0.6_windows-x64_bin.zip\jdk-21.0.6\bin;C:\Users\pruth\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\pruth\AppData\Local\Programs\Python\Python311\;C:\Users\pruth\AppData\Local\Microsoft\WindowsApps;C:\intelFPGA_lite\20.1\modelsim_ase\win32aloem;C:\Users\pruth\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\pruth\AppData\Local\Programs\mongosh\;C:\Users\pruth\Downloads\jdk-21.0.6_windows-x64_bin.zip\jdk-21.0.6\bin\bin;C:\Users\pruth\Downloads\python-3.13.1-amd64.exe;C:\Users\pruth\AppData\Roaming\npm;C:\Users\pruth\OneDrive\Desktop;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.9+9"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testApp" classname="lab2.dev.AppTest" time="0.005"/>
+</testsuite>
